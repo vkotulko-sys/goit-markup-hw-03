@@ -299,3 +299,9 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+.portfolio-img {
+  width: 100%;
+  aspect-ratio: 6 / 5;
+  object-fit: cover;
+}
